@@ -1,4 +1,4 @@
-# ybi_DataScience_movie_recommendation
+# DataScience_movie_recommendation
 # ybi foundation internship - data science - movie recommendation system
 
 a basic recommendation system using Python and Pandas
